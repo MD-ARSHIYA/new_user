@@ -2,4 +2,8 @@ first line
 
 second line
 third line
+<<<<<<< HEAD
 4th line
+=======
+fourth line
+>>>>>>> new
